@@ -1,5 +1,8 @@
 # Potato_leaf_disease_detection_project
-This project focuses on leveraging advanced machine learning techniques to detect and classify various diseases affecting potato leaves. By analyzing images of potato leaves, the model can identify symptoms of common diseases such as late blight, early blight etc.
+This project focuses on leveraging advanced machine learning techniques to detect and classify various diseases affecting potato leaves. By analyzing images of potato leaves, the model can identify symptoms of common diseases such as late blight, early blight etc.<br>
+
+![image alt](https://github.com/amolchaugule102/Potato_leaf_disease_detection_project/blob/main/late_blight.png?raw=true) <br>
+
 
 **Features :** <br>
 **Image Preprocessing:** Converts raw images into a suitable format for analysis.<br>
